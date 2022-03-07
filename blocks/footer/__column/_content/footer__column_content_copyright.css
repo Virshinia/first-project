@@ -2,6 +2,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 50%;
+  flex-basis: 711px;
   position:relative;
 }
